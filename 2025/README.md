@@ -2,3 +2,5 @@
 
 - [Day 1 (Python)](./day01/)
 - [Day 2 (Haskell)](./day02/)
+- [Day 3 (Zig)](./day03/)
+

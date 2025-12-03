@@ -7,5 +7,8 @@ pkgs.mkShell {
     # Haskell
     ghc
     haskell-language-server
+    # Zig
+    zig
+    zls
   ];
 }
