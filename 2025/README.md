@@ -5,4 +5,7 @@
 - [Day 3 (Zig)](./day03/)
 - [Day 4 (Julia)](./day04/)
 - [Day 5 (OCaml)](./day05/)
+- [Day 6 (Scratch\*)](https://scratch.mit.edu/projects/1252473060/)
+
+*\*Yes, really.*
 
